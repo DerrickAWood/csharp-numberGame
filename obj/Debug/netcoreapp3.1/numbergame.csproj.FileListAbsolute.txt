@@ -1,0 +1,13 @@
+C:\source\codeworks\numbergame\bin\Debug\netcoreapp3.1\numbergame.exe
+C:\source\codeworks\numbergame\bin\Debug\netcoreapp3.1\numbergame.deps.json
+C:\source\codeworks\numbergame\bin\Debug\netcoreapp3.1\numbergame.runtimeconfig.json
+C:\source\codeworks\numbergame\bin\Debug\netcoreapp3.1\numbergame.runtimeconfig.dev.json
+C:\source\codeworks\numbergame\bin\Debug\netcoreapp3.1\numbergame.dll
+C:\source\codeworks\numbergame\bin\Debug\netcoreapp3.1\numbergame.pdb
+C:\source\codeworks\numbergame\obj\Debug\netcoreapp3.1\numbergame.csprojAssemblyReference.cache
+C:\source\codeworks\numbergame\obj\Debug\netcoreapp3.1\numbergame.csproj.CoreCompileInputs.cache
+C:\source\codeworks\numbergame\obj\Debug\netcoreapp3.1\numbergame.AssemblyInfoInputs.cache
+C:\source\codeworks\numbergame\obj\Debug\netcoreapp3.1\numbergame.AssemblyInfo.cs
+C:\source\codeworks\numbergame\obj\Debug\netcoreapp3.1\numbergame.dll
+C:\source\codeworks\numbergame\obj\Debug\netcoreapp3.1\numbergame.pdb
+C:\source\codeworks\numbergame\obj\Debug\netcoreapp3.1\numbergame.genruntimeconfig.cache
